@@ -1,2 +1,3 @@
 # SpoonInstall.spoon
-mirror of SpoonInstall.spoon from the official Hammerspoon repository
+
+Mirrored as is from https://github.com/Hammerspoon/Spoons/tree/master/Source/SpoonInstall.spoon
